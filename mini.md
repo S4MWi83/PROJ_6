@@ -1,0 +1,4 @@
+class mini projekt {
+
+    //hej
+}
